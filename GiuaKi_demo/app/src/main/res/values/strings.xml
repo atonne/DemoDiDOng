@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GiuaKi_demo</string>
+    <string name="latest">Latest</string>
+    <string name="todo1">TODO</string>
+    <string name="go">Go</string>
+    <string name="todo">TODO</string>
+    <string name="textview1">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview2">TextView</string>
+</resources>
